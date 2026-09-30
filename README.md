@@ -330,6 +330,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/IvanMurzak/Unity-MCP)<sup><sup>1</sup></sup> - Tools for Unity Editor and for a game made with Unity
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [UnityEngine](https://github.com/CoderGamester/mcp-unity)<sup><sup>2</sup></sup> - Unity3d Game Engine integration for game development
 - <img src="https://cdn.simpleicons.org/unity/899499" height="14"/> [Unity Engine](https://github.com/codemaestroai/advanced-unity-mcp)<sup><sup>3</sup></sup> - Advanced Unity MCP from Code Maestro. Build, debug, profile, and manage assets, scenes, and scripts with natural language via MCP.
+- <img src="https://github.com/miduo100.png" height="14"/> [agent-virtual-world](https://github.com/miduo100/agent-virtual-world) - Walk an AI into a live multiplayer 3D world as a visible avatar: observe the scene, talk to real human players, and be seen by them.
 
 <br />
 
